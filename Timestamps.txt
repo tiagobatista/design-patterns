@@ -1,0 +1,6 @@
+Singleton Pattern: 00:42
+Factory Method Pattern: 05:29
+Observer Pattern: 11:44
+Decorator Pattern: 17:50
+Strategy Pattern: 25:52
+Recap: 30:53
